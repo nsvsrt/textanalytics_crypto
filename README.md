@@ -277,3 +277,4 @@ bitcoin_afinn <- bitcoin_token %>%
  summarise(mean(value))
 bitcoin_afinn
 
+
